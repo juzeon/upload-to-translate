@@ -8,6 +8,8 @@
 ```
 cd /path/to/www/
 git clone https://github.com/juzeon/upload-to-translate.git
+cd upload-to-translate/
+composer update
 ```
 
 我的部署：[https://translate.fimtale.com/](https://translate.fimtale.com/)
